@@ -76,7 +76,7 @@ function App() {
                   textDecoration: "none",
                 }}
               >
-                Voting System
+                Blockchain Based Voting System
               </Typography>
 
               <Box sx={{ flexGrow: 0 }}>

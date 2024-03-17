@@ -131,11 +131,23 @@ Note: The failed transactions were because Admin was adding a voter multiple tim
 ![adminResults](images/image3.png) &nbsp;
 ![VotersResults](images/image4.png) &nbsp;
 
-          
+ Admin Page to Add Voter and Candidates to start Election
+
 ### Latency:
 •	Calculate how long it takes to start, process, and add a transaction to the blockchain.
 It takes approximately 8 seconds on average for a complete transaction from start to adding to the blockchain.
 ![VotersResults](images/image5.png) &nbsp;
+
+## Results
+1. Admin Page to Add Voter and Candidates to start Election
+![VotersResults](images/image6.png) &nbsp;
+
+Voting Page to Cast Vote and End Election
+![VotersResults](images/image7.png) &nbsp;
+
+Election Announcing Page 
+![VotersResults](images/image8.png) &nbsp;
+
 
 ## Built with:
 Download Ganache 
@@ -144,7 +156,7 @@ Download Ganache
 Instructions on setting up your project locally
 ### Step 1. Clone the project
 
-```git clone https://github.com/ashishlamsal/voting-dapp```
+```git clone https://github.com/seonabrar/Distributed_Systems_Project.git```
 
 ### Step 2. Start Ganache
 
@@ -165,7 +177,7 @@ We must migrate the election smart contract each time restart ganache.
 ### Step 5. Run the Front End Application
 
 ```powershell
-cd .\client
+cd .\main
 yarn install
 yarn start
 ```
