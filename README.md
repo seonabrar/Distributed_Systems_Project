@@ -144,7 +144,7 @@ Download Ganache
 Instructions on setting up your project locally
 ### Step 1. Clone the project
 
-```git clone https://github.com/ashishlamsal/voting-dapp```
+```git clone ```
 
 ### Step 2. Start Ganache
 
