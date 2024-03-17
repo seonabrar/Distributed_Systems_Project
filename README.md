@@ -156,11 +156,8 @@ Download Ganache https://archive.trufflesuite.com/ganache/
 Instructions on setting up your project locally
 ### Step 1. Clone the project
 
-<<<<<<< HEAD
 ```git clone https://github.com/seonabrar/Distributed_Systems_Project.git```
-=======
-```git clone ```
->>>>>>> fafc26980f560b052ff1fcb08eea39b3597e3f2c
+
 
 ### Step 2. Start Ganache
 
